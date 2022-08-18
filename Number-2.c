@@ -4,9 +4,7 @@
 int main() {
 
     int roll_col,num;
-
     scanf("%d",&num);
-
     roll_col = num -1 ;
 
     for(int i = -roll_col ; i <= roll_col ; i++){
