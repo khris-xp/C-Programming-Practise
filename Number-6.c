@@ -7,7 +7,7 @@ int main(){
 
     printf("Input : ");
     scanf("%s",&arr);
-    printf("Output : %s",strrev(arr));
+    printf("Output : %s",strrev(arr)); // String Reverse
 
     return 0;
 }
