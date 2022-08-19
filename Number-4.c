@@ -3,7 +3,6 @@
 int main() {
 
     int num,roll_col;
-
     scanf("%d",&roll_col);
 
     for(int i = 1; i <= roll_col ; i++){
@@ -24,6 +23,5 @@ int main() {
         }
         printf("\n");
     }
-
     return 0;
 }
