@@ -42,3 +42,9 @@
 ให้แสดงผลตัวอักษรนั้นซ้ําเท่ากับจํานวนตัวเลข เช่น
 
 ![Screenshot 2022-08-22 175723](https://user-images.githubusercontent.com/84142253/185905535-374326c5-8c34-42a8-909b-e4c5ed84548c.png)
+
+## Number 8
+
+จงเขียนโปรแกรมเพื่อรับ String 1 ชุดแล้วแสดงผลลัพธ์เป็นสามเหลี่ยมจาก string ที่รับเข้ามา ดังตัวอย่าง
+
+![Screenshot 2022-08-22 181437](https://user-images.githubusercontent.com/84142253/185908362-e925ccbb-5c32-49a6-af0e-84af1ec2ea8f.png)
